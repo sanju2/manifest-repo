@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: lasanthasanjeewa/test:17
+      - image: lasanthasanjeewa/webtier:17
         name: flaskdemo
         resources: {}
 status: {}
